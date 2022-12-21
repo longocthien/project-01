@@ -54,7 +54,9 @@ a {
     overflow: hidden;
 }
 /* ======== Header ======== */
-
+.separate{
+    /* test */
+}
 .fixed-header {
     background: #e6f0ff;
     padding-top: 26px;
